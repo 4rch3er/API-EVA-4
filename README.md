@@ -1,8 +1,12 @@
 # api_anime
 #CODIGO PARA LA EVALUACION N°4 DE POO. "Ignacio López A"- "César Ortiz A" - "Cristopher Quicham C"
 
+# INSTRUCCIONES:
+#DESCARGAR ARCHIVO EN ZIP, DESCOMPRIMIR, ABRIR VSCODE, LLEVAR LA CARPETA HASTA EL PROGRAMA Y UTILIZAR LOS SIGUIENTES CODIGOS:
+
 #CODIGO PARA ACTIVAR ENTORNO VIRTUAL:
-.\venv\Scripts\activate  
+# .\venv\Scripts\activate  
 
 #CODIGO PARA ENCENDER SERVIDOR:
-python manage.py runserver
+# python manage.py runserver
+
