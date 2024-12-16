@@ -1,3 +1,5 @@
+# api_anime
+
 CODIGO PARA ACTIVAR ENTORNO VIRTUAL:
 .\venv\Scripts\activate  
 
